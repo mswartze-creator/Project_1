@@ -6,7 +6,7 @@
     <ul>
       <li><a href="https://mswartze-creator.github.io/Hobbies/">Hobbies</a>
       <li><a href="https://mswartze-creator.github.io/Student-Life/">Student Life</a>
-      <li><a href="https://mswartze-creator.github.io/Volunteer-Work/">Volunteer Work</a>
+      <li><a href="https://mswartze-creator.github.io/Volunteer-Work/">Contact</a>
       <li><a href="https://mswartze-creator.github.io/Student-Portfolio/">Landing Page</a>
 
 <h2> Welcome! </h2>
