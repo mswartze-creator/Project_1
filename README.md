@@ -6,9 +6,9 @@
 <nav>
     <ul>
       <li><a href="https://github.com/mswartze-creator/Student-Portfolio/blob/master/Hobbies">Hobbies</a>
-      <li><a href="https://github.com/mswartze-creator/Student-Portfolio/blob/master/StudentLife">Student Life</a>
-      <li><a href="https://github.com/mswartze-creator/Student-Portfolio/blob/master/VolunteerWork">Volunteer Work</a>
-      <li><a href="https://github.com/mswartze-creator/Student-Portfolio/blob/master/LandingPage">Landing Page</a>
+      <li><a href="https://github.com/mswartze-creator/Student-Portfolio/blob/master/Student%20Life">Student Life</a>
+      <li><a href="https://github.com/mswartze-creator/Student-Portfolio/blob/master/Volunteer%20Work">Volunteer Work</a>
+      <li><a href="https://github.com/mswartze-creator/Student-Portfolio/blob/master/Landing%20Page">Landing Page</a>
 
 <h2> Welcome! </h2>
 <p> Welcome to the landing page for this portfolio! It is a work-in-progress for a portfolio website, which will eventually showcase artwork! I'm still working out a few of the bugs at this point, but I have high hopes! Currently, it is a site which presents a look back at my years at George Mason! </p>
