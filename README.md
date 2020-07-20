@@ -15,7 +15,7 @@
 
 <h2> About Me </h2>
 <picture>
-  <source media="(min-width:650px)" srcset+"https://github.com/mswartze-creator/Student-Portfolio/blob/George-Mason/20200507_180422%20(1).jpg">
+  <source media="(min-width:650px)" srcset= "https://github.com/mswartze-creator/Student-Portfolio/blob/master/20200507_180422%20(1).jpg">
 </picture>
 <p> I'm Rachelle Swartzentruber, and I'm working to graduate this semester from George Mason University with a major in English, Concentration in Professional Writing and Rhetoric. In my spare time, I paint and volunteer at my church, and have game nights with my friends when possible! <p>
 
