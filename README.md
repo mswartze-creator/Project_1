@@ -20,5 +20,5 @@
 </picture>
 <p> I'm Rachelle Swartzentruber, and I'm working to graduate this semester from George Mason University with a major in English, Concentration in Professional Writing and Rhetoric. In my spare time, I paint and volunteer at my church, and have game nights with my friends when possible! <p>
 
-
+ 
 <footer> <h6> Copyright: George Mason University </h6> </footer>
