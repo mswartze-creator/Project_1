@@ -4,8 +4,8 @@
   <h2> Site Navigation </h2>
 <nav>
     <ul>
-      <li><a href="https://mswartze-creator.github.io/Hobbies/">Hobbies</a>
-      <li><a href="https://mswartze-creator.github.io/Student-Life/">Student Life</a>
+      <li><a href="https://mswartze-creator.github.io/Hobbies/">Artwork</a>
+      <li><a href="https://mswartze-creator.github.io/Student-Life/">Meet the Artist</a>
       <li><a href="https://mswartze-creator.github.io/Volunteer-Work/">Contact</a>
       <li><a href="https://mswartze-creator.github.io/Student-Portfolio/">Landing Page</a>
 
