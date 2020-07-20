@@ -1,5 +1,4 @@
 
-<html>
 <body>
 <h1> Student Portfolio </h1>
   <h2> Site Navigation </h2>
