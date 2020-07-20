@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+"styles.css"
 h1 {
   color: blue;
 p {
