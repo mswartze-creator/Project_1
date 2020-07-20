@@ -1,0 +1,3 @@
+$ cd mswartze-creator.github.io
+$ echo "Student Portfolio" > index. html
+$ git push -u origin master
