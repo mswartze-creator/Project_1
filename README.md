@@ -1,6 +1,6 @@
 
 <body>
-    <link rel="Stylesheet_CSS" href="Stylesheet_CSS">
+  <link rel="Stylesheet_CSS" href="styles.css">
 <h1> Student Portfolio </h1>
   <h2> Site Navigation </h2>
 <nav>
