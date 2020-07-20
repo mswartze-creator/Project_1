@@ -1,7 +1,14 @@
-"styles.css"
+body {
+    background-color: darkslategrey;
+    color: azure;
+    font-size: 1.1em;
+}
 h1 {
-  color: blue;
-p {
-  border: 2px solid powderblue;
-  padding: 30px;
-    }
+    color: coral;
+}
+#intro {
+    font-size: 1.3em;
+}
+.colorful {
+    color: orange;
+}
