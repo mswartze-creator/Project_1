@@ -1,4 +1,4 @@
-<link href="/path/to/markdown.css" rel="stylesheet">
+<link href="./markdown.css" rel="stylesheet">
 <body>
   
 <h1> Student Portfolio </h1>
