@@ -1,4 +1,4 @@
-<link href="/path/to/markdown.css" rel="stylesheet"> </link>
+<link href="/path/to/markdown.css" rel="stylesheet">
 <body>
   
 <h1> Student Portfolio </h1>
@@ -19,6 +19,6 @@
   <source media="(min-width:650px)" srcset= "https://github.com/mswartze-creator/Student-Portfolio/blob/master/20200507_180422%20(1).jpg">
 </picture>
 <p> I'm Rachelle Swartzentruber, and I'm working to graduate this semester from George Mason University with a major in English, Concentration in Professional Writing and Rhetoric. In my spare time, I paint and volunteer at my church, and have game nights with my friends when possible! <p>
-</aside>
+
  
 <footer> <h6> Copyright: George Mason University </h6> </footer>
