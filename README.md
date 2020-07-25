@@ -61,9 +61,7 @@
     </div>    
 
 <!-- END GRID -->
-</div>
 
-<div class="content">
 
  
 <footer> <h6> Copyright: George Mason University </h6> </footer>
