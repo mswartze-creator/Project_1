@@ -1,4 +1,7 @@
 
+aside {
+	float: left;
+	}
 img:hover {
   transform: scaleX(-1);
 }
