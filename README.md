@@ -1,7 +1,7 @@
 <link href="./markdown.css" rel="stylesheet">
 <body>
   
-<h1> Kind Rocky Art </h1>
+<h1> Kinda Rocky Art </h1>
 
 <h2> Welcome! </h2>
 <p> Welcome to this portfolio! Below, you will find a little bit about me, and a few examples of my work! If you would like to contact me to request a commission, please refer to the commission agreement below. 
