@@ -1,6 +1,14 @@
 
+header {
+  padding: 60px;
+  text-align: center;
+  background: #B0C4DE;
+  color: white;
+	}
+	
 aside {
 	float: left;
+	background-color: #B0C4DE;
 	}
 img:hover {
   transform: scaleX(-1);
