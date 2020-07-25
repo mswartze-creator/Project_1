@@ -1,7 +1,26 @@
 <link href="./markdown.css" rel="stylesheet">
+</head>
+  <body>
+    <div class="container text-center">
+    <h1>Kinda Rocky Art<span><svg width="37px" height="37px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+      <title>diamond</title>
+      <desc>Created with Sketch.</desc>
+      <defs/>
+      <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+          <g id="Artboard-4" transform="translate(-576.000000, -379.000000)">
+              <g id="132" transform="translate(576.000000, 379.000000)">
+                  <polygon id="Path-56" stroke="#FFFFFF" stroke-width="2" stroke-linejoin="round" points="12 20 21.0113578 7.98864223 18 4 6 4 3 8"/>
+                  <rect id="Rectangle-82" fill="#FFFFFF" x="3" y="7" width="18" height="2"/>
+                  <polygon id="Path-60" stroke="#FFFFFF" stroke-width="2" stroke-linejoin="round" points="7.96887113 8.03112887 12 18 16.5 8.03112887 13 4 11 4"/>
+              </g>
+          </g>
+      </g>
+  </svg></span></h1>
+    <p>By Rachelle Swartzentruber</p>
 <body>
   
-<h1> Kinda Rocky Art </h1>
+
 
 <h2> Welcome! </h2>
 <p> Welcome to this portfolio! Below, you will find a little bit about me, and a few examples of my work! If you would like to contact me to request a commission, please refer to the commission agreement below. 
