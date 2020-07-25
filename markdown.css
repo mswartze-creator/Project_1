@@ -1,4 +1,25 @@
+html {
+	  font-size: 100%;
+	  overflow-y: scroll;
+	  -webkit-text-size-adjust: 100%;
+	  -ms-text-size-adjust: 100%;
+	}
+	
 
+	body {
+	  color: #444;
+	  	font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+	font-size: 18px;
+	font-weight: 300;
+	overflow-x: hidden;
+	  line-height: 1.5em;
+	  padding: 1em;
+	  margin: auto;
+	  max-width: 42em;
+	  background: #F8F8FF;
+	}
+
+}
 
 a:focus {
 	color: #666;
@@ -14,13 +35,7 @@ p { line-height: 1.8; }
 p:last-child { margin-bottom: 0; }
 h3 { font-size: 1.6rem; }
 
-body {
-	color: #000;
-	font-family: 'Open Sans', Helvetica, Arial, sans-serif;
-	font-size: 18px;
-	font-weight: 300;
-	overflow-x: hidden;
-}
+
 
 .margin-b-15 { margin-bottom: 15px; }
 .margin-b-40 { margin-bottom: 40px; }
